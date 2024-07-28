@@ -14,8 +14,7 @@ const Header = () => {
       <div className="header__info__middle">
         <h1 className="primary__title header__title">I'M A WEB DEVELOPER</h1>
         <p className="text__muted header__description">
-          I dissect intricate user experience challenges to engineer 
-          integrity-focused solutions that resonate with billions of users.
+        I dissect intricate user experience challenges to engineer integrity-focused solutions that resonate with users.
         </p>
       </div>
         <div className="header__info__bottom">

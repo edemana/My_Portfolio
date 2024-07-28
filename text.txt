@@ -1,46 +1,34 @@
+I'M A WEB DEVELOPER
 
-------------------------------------------------------------------------------------
-Intro title: I'M A WEB DEVELOPER
-Intro description: I dissect intricate user experience challenges to engineer 
-integrity-focused solutions that resonate with billions of users.
-------------------------------------------------------------------------------------
+I dissect intricate user experience challenges to engineer integrity-focused solutions that resonate with users.
 
-
-------------------------------------------------------------------------------------
 About Me:
-Experienced Full Stack Developer with a passion for creating dynamic, intuitive, and
-responsive applications. Proficient in multiple programming languages and frameworks, 
-as well as database design and management. Strong problem-solving and analytical skills, 
-and a track record of delivering high-quality code on time and on budget.
-------------------------------------------------------------------------------------
 
+Experienced Computer Science student with a passion for creating dynamic, intuitive, and responsive web applications. Proficient in multiple programming languages (HTML, CSS, JavaScript, Python, Java, R) and frameworks, as well as database design and management (SQL, MySQL). Strong problem-solving and analytical skills, with a proven track record of delivering high-quality code on time and within budget. Additional expertise in AI, machine learning, and deep learning.   
 
-------------------------------------------------------------------------------------
-Services Description: I transform your ideas, and consequently your desires, into a 
-distinctive web project that both inspires you and captivates your customers.
+Services Description:
 
-Services cards:Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione 
-voluptatum earum quam tempore, repellat aut vero ut eum, provident accusamus recusandae 
-eligendi, adipisci sequi reiciendis quisquam? Sapiente optio rerum sequi!
-------------------------------------------------------------------------------------
+I transform your ideas into distinctive web projects that inspire you and captivate your customers. My services include:
 
+Full Stack Web Development: Building complete web solutions, from front-end user interfaces to back-end server logic and databases.
+AI-Powered Applications: Integrating machine learning and AI capabilities to enhance web functionality and user experiences.
+Custom Web Design: Crafting visually appealing and user-friendly websites tailored to your brand and target audience.
+E-commerce Development: Creating online stores with secure payment gateways and intuitive shopping experiences.
+Testimonial Description:
 
+"Edem's passion for web development and AI is evident in his work. He took our vision and turned it into a reality, exceeding our expectations." - Kwame AI
 
-------------------------------------------------------------------------------------
-Testimonial Description: Discover what clients are saying about their experiences working 
-with me as their trusted web developer. From startups to established businesses, my dedication 
-to crafting exceptional online experiences shines through in their words. 
-------------------------------------------------------------------------------------
+Contact Me:
 
+Ready to take your digital presence to the next level? Let's discuss your project!
 
+EDEM KORBLA ANAGBAH
 
-------------------------------------------------------------------------------------
-Contact me description: Ready to take your digital presence to the next level? Whether 
-you're looking to launch a new website, revamp an existing one, or need expert advice 
-on the best web technologies, I'm here to help. Reach out to discuss your project, ask 
-questions, or just say hello.
-------------------------------------------------------------------------------------
++233 540181551/Ghanaian
 
+edem.anagbah@ashesi.edu.gh | anagbahedem@yahoo.com
 
+Key Skills:
 
-
+Technical: HTML, CSS, JavaScript, Python, Java, R, SQL, MySQL, Machine Learning, Deep Learning.
+Soft Skills: Leadership, Communication, Problem-Solving, Collaboration, Design Thinking.
