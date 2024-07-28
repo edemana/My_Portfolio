@@ -20,12 +20,12 @@ export const projects = [
   { 
       id: 1,
       title: 'Ashesi Study Spot Finder App',
-      image: 'https://your-image-link-here.jpg',
+      image: 'https://apps.ashesi.edu.gh/study-spot-finder/',
       category: "Web",
       data: {
           description: `Led a team of three students in developing a web app enabling Ashesi students to locate available study spaces, addressing a common campus need.
                         Applied design thinking principles throughout the development process to ensure user-centric solutions.`,
-          demoLink: "https://your-app-demo-link.com",
+          demoLink: "https://apps.ashesi.edu.gh/study-spot-finder/",
       },
       stack: [
         {
