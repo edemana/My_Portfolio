@@ -8,7 +8,9 @@ import {
 import { TbBrandReactNative } from "react-icons/tb";
 import { CgFigma } from "react-icons/cg";
 import { AiFillGithub, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
-
+import {profile1} from "../../images"
+import {profile2} from "../../images"
+import { project1 } from "./images";
 export const menu = [
     {name: "About"},
     {name: "Skill"},
@@ -20,7 +22,7 @@ export const projects = [
   { 
       id: 1,
       title: 'Ashesi Study Spot Finder App',
-      image: "./project1.png",
+      image: profile1,
       category: "Web",
       data: {
           description: `Led a team of three students in developing a web app enabling Ashesi students to locate available study spaces, addressing a common campus need.
@@ -48,7 +50,7 @@ export const projects = [
   { 
       id: 2,
       title: 'AI Soccer Player Rating Prediction Model',
-      image: 'https://your-image-link-here.jpg',
+      image: project2,
       category: "AI/ML", 
       data: {
           description: `Developed an AI model to predict the overall rating of soccer players using regression techniques.
