@@ -1,0 +1,20 @@
+#footer .nav__link {
+    transition: var(--transition); /* Apply a transition effect */
+  }
+  
+  #footer .nav__link:hover {
+    color: var(--color-primary); /* Change color on hover */
+  }
+  
+  #footer .social__handles__container {
+    display: flex; /* Use flexbox layout */
+    align-items: center; /* Align items vertically to the center */
+    justify-content: center; /* Align items horizontally to the center */
+    gap: 20px; /* Set gap between items */
+    margin-top: 40px; /* Add top margin */
+  }
+  
+  #footer .social__handles__container .social__handle {
+    width: 3rem; /* Set width of social handles */
+  }
+  
