@@ -8,9 +8,9 @@ import {
 import { TbBrandReactNative } from "react-icons/tb";
 import { CgFigma } from "react-icons/cg";
 import { AiFillGithub, AiFillLinkedin, AiFillYoutube } from "react-icons/ai";
-import {profile1} from "../../images"
-import {profile2} from "../../images"
 import { project1 } from "./images";
+import { project2 } from "./images";
+
 export const menu = [
     {name: "About"},
     {name: "Skill"},
@@ -22,7 +22,7 @@ export const projects = [
   { 
       id: 1,
       title: 'Ashesi Study Spot Finder App',
-      image: profile1,
+      image: project1,
       category: "Web",
       data: {
           description: `Led a team of three students in developing a web app enabling Ashesi students to locate available study spaces, addressing a common campus need.
