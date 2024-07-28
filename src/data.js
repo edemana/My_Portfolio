@@ -1,9 +1,10 @@
 // Import necessary icons
 import { DiReact, DiPython } from "react-icons/di";
+import { FaJava } from 'react-icons/fa'; // Import Java icon from the correct package
 import { FaNodeJs, FaPython } from "react-icons/fa"; // Combine Fa icons
 import { 
     SiExpress, SiMongodb, SiHtml5, SiCss3, SiJavascript, 
-    SiFlask, SiJava, SiMysql, SiAdobexd  // Combine Si icons
+    SiFlask, SiMysql, SiAdobexd  // Combine Si icons
 } from "react-icons/si";
 import { TbBrandReactNative } from "react-icons/tb";
 import { CgFigma } from "react-icons/cg";
@@ -125,7 +126,7 @@ export const experience = [
       { skill: "Express JS", level: "Intermediate", icon: <SiExpress /> },
       { skill: "MongoDB", level: "Intermediate", icon: <SiMongodb /> },
       { skill: "MySQL", level: "Intermediate", icon: <SiMysql /> },
-      { skill: "Java", level: "Beginner", icon: <SiJava /> },
+      { skill: "Java", level: "Beginner", icon: <FaJava /> },
     ],
   },
   {
