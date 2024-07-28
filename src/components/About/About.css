@@ -11,8 +11,8 @@
   #about .me__container.blur-effect::before {
     bottom: 0;
     left: 0;
-    width: 146px;
-    height: 142px;
+    width: 155px;
+    height: 150px;
     margin-left: -5%;
     margin-bottom: -5%;
   }
