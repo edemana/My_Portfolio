@@ -76,7 +76,7 @@ export const projects = [
       image: 'https://youtu.be/pkkFaMoNYwY',
       category: "AI/ML",
       data: {
-          description: `Working on generating fake images using GAN, enhancing skills in deep learning and image processing.
+          description: `Worked on generating fake images using GAN, enhancing skills in deep learning and image processing.
                         Experimenting with various architectures and tuning hyperparameters to improve image quality.`,
           demoLink: "https://youtu.be/pkkFaMoNYwY",
       },
