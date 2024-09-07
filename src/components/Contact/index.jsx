@@ -12,9 +12,7 @@ const Contact = () => {
           <h2 className="primary__title">Contact Me</h2>
           <p className="text__muted description">
             Ready to take your digital presence to the next level? Whether
-            you're looking to launch a new website or revamp an existing one, or need advice
-            on web technologies, I'm here to help. Reach out to discuss your project,
-            questions, or just say hello.
+            you're looking to launch a new website or revamp an existing one, I'm here to help. Reach out to discuss your project, or just say hello.
           </p>
         </div>
         <div className="contact__group">
@@ -40,7 +38,7 @@ const Contact = () => {
             <article className="contact__option">
               <BsWhatsapp className="contact__icon" />
               <h3>WhatsApp</h3>
-              <h5>+233 540 185 1551 </h5> {/* Replace with actual phone number */}
+              <h5>+233 540 185 1551 </h5> 
               <a href="https://api.whatsapp.com/send/" target="_blank" rel="noopener noreferrer" className="btn">
                 Send a message
               </a>
