@@ -73,12 +73,12 @@ export const projects = [
   { 
       id: 3,
       title: 'Fake Image Generation with Generative Adversarial Networks (GAN)',
-      image: 'https://your-image-link-here.jpg',
+      image: 'https://youtu.be/pkkFaMoNYwY',
       category: "AI/ML",
       data: {
           description: `Working on generating fake images using GAN, enhancing skills in deep learning and image processing.
                         Experimenting with various architectures and tuning hyperparameters to improve image quality.`,
-          demoLink: "https://your-vae-demo-link.com",
+          demoLink: "https://youtu.be/pkkFaMoNYwY",
       },
       stack: [
         {
