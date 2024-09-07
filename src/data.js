@@ -72,11 +72,11 @@ export const projects = [
   },
   { 
       id: 3,
-      title: 'Fake Image Generation with Variational Autoencoders (VAE)',
+      title: 'Fake Image Generation with Generative Adversarial Networks (GAN)',
       image: 'https://your-image-link-here.jpg',
       category: "AI/ML",
       data: {
-          description: `Working on generating fake images using VAE, enhancing skills in deep learning and image processing.
+          description: `Working on generating fake images using GAN, enhancing skills in deep learning and image processing.
                         Experimenting with various architectures and tuning hyperparameters to improve image quality.`,
           demoLink: "https://your-vae-demo-link.com",
       },
@@ -113,8 +113,6 @@ export const experience = [
     data: [
       { skill: "Python", level: "Intermediate", icon: <FaPython /> },
       { skill: "Node JS", level: "Intermediate", icon: <FaNodeJs /> },
-      { skill: "Express JS", level: "Intermediate", icon: <SiExpress /> },
-      { skill: "MongoDB", level: "Intermediate", icon: <SiMongodb /> },
       { skill: "MySQL", level: "Intermediate", icon: <SiMysql /> },
       { skill: "Java", level: "Beginner", icon: <FaJava /> },
     ],
