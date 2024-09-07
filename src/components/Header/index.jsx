@@ -1,6 +1,6 @@
 import React from "react"
 import "./Header.css"
-import {profile1} from "../../images"
+import {profile3} from "../../images"
 const Header = () => {
     return(
         <header id='header' className='blur-effect'>
@@ -25,7 +25,7 @@ const Header = () => {
   </div>
   <div className="column profile__wrapper">
     <div className="profile__photo__container">
-      <img src={profile1} className="profile__photo" alt="" />
+      <img src={profile3} className="profile__photo" alt="" />
     </div>
   </div>
 </div>
